@@ -1,2 +1,2 @@
-# simple-calculator
+# cli-number-gaming
 My-first-project 
